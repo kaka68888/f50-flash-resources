@@ -11,4 +11,3 @@ F50 随身 WiFi 刷机/插件资源集合（2026-11-08 原版资源）。
 
 ## 注意
 - `CloudFlare_Tunnel插件.js` 里的内置 token 已移除，使用时请在插件界面粘贴自己的 tunnel token。
-- 请勿把带 token 的版本传回本仓库；若 token 曾泄露，建议在 Cloudflare 控制台轮换或删除对应隧道。
